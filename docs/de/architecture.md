@@ -1,4 +1,4 @@
-# Architektur
+# Architekture
 
 Das Testprodukt besteht aus drei Schichten:
 
