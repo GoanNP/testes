@@ -3,13 +3,6 @@ site_description: Sample documentation set for testing the mkdocs.yml scanner
 docs_dir: docs
 
 nav:
-  - Home: index.md
-  - Architecture: architecture.md
-  - Guides:
-      - Getting Started: guides/getting-started.md
-      - Advanced Usage: guides/advanced-usage.md
-  - Configuration: configuration.md
-  - Operations: operations.md
   - Performance:
       - Large Document (5MB): performance/large-doc.md
       - Huge Document (15MB): performance/huge-doc.md
