@@ -1,5 +1,5 @@
 # Architektur
-
+ede
 Das Testprodukt besteht aus drei Schichten:
 
 - **Client** — rendert die Dokumentationsseiten.
