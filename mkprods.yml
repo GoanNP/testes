@@ -1,6 +1,7 @@
 site_name: Test Product Catalog
 site_description: Sample product set for testing the mkprods.yml scanner
 docs_dir: prods
+documentation: mkdocs.yml
 
 nav:
   - Overview: index.md
