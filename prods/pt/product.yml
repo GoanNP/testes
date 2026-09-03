@@ -1,0 +1,31 @@
+title: Catálogo de Produtos de Teste
+description: Produtos de câmara, robótica e conectividade sobre uma plataforma de controlador comum.
+
+eyebrow: Plataforma de linha de produção
+headline: Uma plataforma de controlador para inspeção, manuseamento e conectividade.
+category: Automação industrial
+focus: Qualidade inline e conectividade de linha
+designed_for: Linhas rápidas de embalagem e montagem
+factories:
+  - Lisboa
+  - Porto
+  - Braga
+
+overview: Todos os produtos correm a mesma imagem de controlador endurecida, pelo que especificações, integração e suporte seguem o mesmo padrão em todo o catálogo.
+
+capabilities:
+  - Inspeção inline de superfície, impressão e dimensões à velocidade da linha.
+  - Pega, colocação e paletização sem célula robótica à medida.
+  - Tradução de protocolos para máquinas sem OPC UA nativo.
+  - Buffer store-and-forward durante falhas de ligação.
+
+outcomes:
+  - Defeitos não detetados descem de 1,8 % para 0,2 %.
+  - Esforço de inspeção manual reduzido em 1,5 operadores por turno.
+  - Paragem de linha por turno reduzida de 22 min para 7 min.
+  - Sem necessidade de regras de firewall de entrada para a conectividade fabril.
+
+detailed_description:
+  - O Catálogo de Produtos de Teste reúne os três produtos de linha de produção do repositório de fixture. Cada produto é descrito com o mesmo conjunto de seções, para que o renderizador receba sempre uma estrutura previsível.
+  - A implementação segue quatro passos: avaliar a linha alvo e recolher a lista de sinais, instalar o produto em modo sombra junto ao processo em curso, validar contra um lote de referência durante pelo menos um turno completo e, por fim, passar para o modo ativo e entregar os dashboards ao operador.
+  - Todos os valores neste catálogo são dados de exemplo para fins de teste.
