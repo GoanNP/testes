@@ -27,5 +27,5 @@ outcomes:
 
 detailed_description:
   - Der Test-Produktkatalog bündelt die drei Produktionslinien-Produkte des Fixture-Repositorys. Jedes Produkt wird mit denselben Abschnitten beschrieben, damit der Renderer immer eine vorhersagbare Dokumentstruktur erhält.
-  - Die Einführung erfolgt in vier Schritten: Ziellinie bewerten und Signalliste erfassen, Produkt im Schattenbetrieb installieren, mindestens eine volle Schicht gegen eine Referenzcharge validieren und schließlich in den Aktivbetrieb wechseln und die Bediener-Dashboards übergeben.
+  - Die Einführung erfolgt in vier Schritten, Ziellinie bewerten und Signalliste erfassen, Produkt im Schattenbetrieb installieren, mindestens eine volle Schicht gegen eine Referenzcharge validieren und schließlich in den Aktivbetrieb wechseln und die Bediener-Dashboards übergeben.
   - Alle Angaben in diesem Katalog sind Beispieldaten für Testzwecke.
