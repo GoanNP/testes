@@ -1,4 +1,4 @@
-## What is included after
+## What is included
 
 - **Vision Inspection** — camera-based defect detection for high-speed lines.
 - **Robotics Cell** — a pre-integrated pick, place and palletize workstation.
