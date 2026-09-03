@@ -1,9 +1,3 @@
-# Produktkatalog – Überblick
-
-Der Test-Produktkatalog bündelt die drei Produktionslinien-Produkte des
-Fixture-Repositorys. Jedes Produkt wird mit denselben Abschnitten beschrieben,
-damit der Renderer immer eine vorhersagbare Dokumentstruktur erhält.
-
 ## Enthaltene Produkte
 
 - **Vision Inspection** — kamerabasierte Fehlererkennung für schnelle Linien.
@@ -24,5 +18,3 @@ damit der Renderer immer eine vorhersagbare Dokumentstruktur erhält.
 2. Produkt im Schattenbetrieb neben dem laufenden Prozess installieren.
 3. Mindestens eine volle Schicht gegen eine Referenzcharge validieren.
 4. In den Aktivbetrieb wechseln und Bediener-Dashboards übergeben.
-
-> Alle Angaben in diesem Katalog sind Beispieldaten für Testzwecke.
