@@ -1,4 +1,4 @@
-# Architecture v2
+# Architecture
 
 The Test Product is composed of three layers:
 
