@@ -1,9 +1,3 @@
-# Product Catalog Overview
-
-The Test Product Catalog bundles the three production-line products used by the
-fixture repository. Every product is described with the same set of sections so
-the renderer always receives a predictable document shape.
-
 ## What is included
 
 - **Vision Inspection** — camera-based defect detection for high-speed lines.
@@ -24,5 +18,3 @@ the renderer always receives a predictable document shape.
 2. Install the product in a shadow mode next to the running process.
 3. Validate against a reference batch for at least one full shift.
 4. Switch to active mode and hand over the operator dashboards.
-
-> All figures in this catalog are sample data for testing purposes only.
