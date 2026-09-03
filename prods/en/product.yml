@@ -27,5 +27,5 @@ outcomes:
 
 detailed_description:
   - The Test Product Catalog bundles the three production-line products used by the fixture repository. Every product is described with the same set of sections so the renderer always receives a predictable document shape.
-  - Rollout follows four steps: assess the target line and collect the existing signal list, install the product in shadow mode next to the running process, validate against a reference batch for at least one full shift, and finally switch to active mode and hand over the operator dashboards.
+  - Rollout follows four steps, assess the target line and collect the existing signal list, install the product in shadow mode next to the running process, validate against a reference batch for at least one full shift, and finally switch to active mode and hand over the operator dashboards.
   - All figures in this catalog are sample data for testing purposes only.
