@@ -1,0 +1,31 @@
+title: Test Product Catalog
+description: Camera, robotics and connectivity products delivered on one shared controller platform.
+
+eyebrow: Production line platform
+headline: One controller platform for inspection, handling and connectivity.
+category: Industrial automation
+focus: Inline quality and line connectivity
+designed_for: High-speed packaging and assembly lines
+factories:
+  - Lisbon
+  - Porto
+  - Braga
+
+overview: Every product runs the same hardened controller image, so specifications, integration and support follow one predictable pattern across the catalog.
+
+capabilities:
+  - Inline surface, print and dimensional inspection at line speed.
+  - Pick, place and palletizing without a custom robot cell.
+  - Protocol translation for machines without native OPC UA.
+  - Store-and-forward buffering during uplink outages.
+
+outcomes:
+  - Escaped defects drop from 1.8 % to 0.2 %.
+  - Manual inspection effort reduced by 1.5 operators per shift.
+  - Line stop time per shift cut from 22 min to 7 min.
+  - No inbound firewall rules required for plant connectivity.
+
+detailed_description:
+  - The Test Product Catalog bundles the three production-line products used by the fixture repository. Every product is described with the same set of sections so the renderer always receives a predictable document shape.
+  - Rollout follows four steps: assess the target line and collect the existing signal list, install the product in shadow mode next to the running process, validate against a reference batch for at least one full shift, and finally switch to active mode and hand over the operator dashboards.
+  - All figures in this catalog are sample data for testing purposes only.
