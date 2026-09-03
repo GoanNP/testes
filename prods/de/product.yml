@@ -1,0 +1,31 @@
+title: Test-Produktkatalog
+description: Kamera-, Robotik- und Konnektivitätsprodukte auf einer gemeinsamen Controller-Plattform.
+
+eyebrow: Plattform für Produktionslinien
+headline: Eine Controller-Plattform für Prüfung, Handling und Konnektivität.
+category: Industrielle Automatisierung
+focus: Inline-Qualität und Linienanbindung
+designed_for: Schnelle Verpackungs- und Montagelinien
+factories:
+  - Lissabon
+  - Porto
+  - Braga
+
+overview: Alle Produkte nutzen dasselbe gehärtete Controller-Image, sodass technische Daten, Integration und Support im gesamten Katalog demselben Muster folgen.
+
+capabilities:
+  - Inline-Prüfung von Oberfläche, Druck und Maßen bei Liniengeschwindigkeit.
+  - Greifen, Setzen und Palettieren ohne kundenspezifische Roboterzelle.
+  - Protokollübersetzung für Maschinen ohne natives OPC UA.
+  - Store-and-Forward-Pufferung bei Verbindungsausfällen.
+
+outcomes:
+  - Durchgeschlüpfte Fehler sinken von 1,8 % auf 0,2 %.
+  - Manueller Prüfaufwand um 1,5 Bediener pro Schicht reduziert.
+  - Linienstillstand pro Schicht von 22 min auf 7 min gesenkt.
+  - Keine eingehenden Firewallregeln für die Werksanbindung nötig.
+
+detailed_description:
+  - Der Test-Produktkatalog bündelt die drei Produktionslinien-Produkte des Fixture-Repositorys. Jedes Produkt wird mit denselben Abschnitten beschrieben, damit der Renderer immer eine vorhersagbare Dokumentstruktur erhält.
+  - Die Einführung erfolgt in vier Schritten: Ziellinie bewerten und Signalliste erfassen, Produkt im Schattenbetrieb installieren, mindestens eine volle Schicht gegen eine Referenzcharge validieren und schließlich in den Aktivbetrieb wechseln und die Bediener-Dashboards übergeben.
+  - Alle Angaben in diesem Katalog sind Beispieldaten für Testzwecke.
