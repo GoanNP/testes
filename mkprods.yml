@@ -1,1 +1,13 @@
+site_name: Test Product Catalog
+site_description: Sample product set for testing the mkprods.yml scanner
+docs_dir: docs
 
+nav:
+  - Overview: index.md
+  - Specifications: specifications.md
+  - Product Lines:
+      - Vision Inspection: lines/vision-inspection.md
+      - Robotics Cell: lines/robotics-cell.md
+      - Edge Gateway: lines/edge-gateway.md
+  - Integration: integration.md
+  - Support: support.md
