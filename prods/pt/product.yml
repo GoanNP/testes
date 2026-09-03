@@ -27,5 +27,5 @@ outcomes:
 
 detailed_description:
   - O Catálogo de Produtos de Teste reúne os três produtos de linha de produção do repositório de fixture. Cada produto é descrito com o mesmo conjunto de seções, para que o renderizador receba sempre uma estrutura previsível.
-  - A implementação segue quatro passos: avaliar a linha alvo e recolher a lista de sinais, instalar o produto em modo sombra junto ao processo em curso, validar contra um lote de referência durante pelo menos um turno completo e, por fim, passar para o modo ativo e entregar os dashboards ao operador.
+  - A implementação segue quatro passos, avaliar a linha alvo e recolher a lista de sinais, instalar o produto em modo sombra junto ao processo em curso, validar contra um lote de referência durante pelo menos um turno completo e, por fim, passar para o modo ativo e entregar os dashboards ao operador.
   - Todos os valores neste catálogo são dados de exemplo para fins de teste.
