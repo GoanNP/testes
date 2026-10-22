@@ -16,3 +16,21 @@ nav:
         - Edge Gateway: en/lines/edge-gateway.md
     - Integration: en/integration.md
     - Support: en/support.md
+  - Português:
+    - Visão Geral: pt/index.md
+    - Especificações: pt/specifications.md
+    - Linhas de Produtos:
+        - Inspeção Visual: pt/lines/vision-inspection.md
+        - Célula Robótica: pt/lines/robotics-cell.md
+        - Gateway de Borda: pt/lines/edge-gateway.md
+    - Integração: pt/integration.md
+    - Suporte: pt/support.md
+  - Deutsch:
+    - Übersicht: de/index.md
+    - Spezifikationen: de/specifications.md
+    - Produktlinien:
+        - Bildverarbeitung: de/lines/vision-inspection.md
+        - Roboterzelle: de/lines/robotics-cell.md
+        - Edge-Gateway: de/lines/edge-gateway.md
+    - Integration: de/integration.md
+    - Support: de/support.md
