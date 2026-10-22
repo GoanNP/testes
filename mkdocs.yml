@@ -3,10 +3,20 @@ site_description: Sample documentation set for testing the mkdocs.yml scanner
 docs_dir: docs
 
 nav:
-  - Home: index.md
-  - Architecture: architecture.md
-  - Guides:
-      - Getting Started: guides/getting-started.md
-      - Advanced Usage: guides/advanced-usage.md
-  - Configuration: configuration.md
-  - Operations: operations.md
+  - Docs: index.md
+  - English:
+    - Home: en/index.md
+    - Architecture: en/architecture.md
+    - Guides:
+        - Getting Started: en/guides/getting-started.md
+        - Advanced Usage: en/guides/advanced-usage.md
+    - Configuration: en/configuration.md
+    - Operations: en/operations.md
+  - Português:
+    - Início: pt/index.md
+    - Arquitetura: pt/architecture.md
+    - Guias:
+        - Iniciando: pt/guides/getting-started.md
+        - Uso Avançado: pt/guides/advanced-usage.md
+    - Configurações: pt/configuration.md
+    - Operações: pt/operations.md
