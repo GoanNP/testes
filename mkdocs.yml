@@ -20,3 +20,11 @@ nav:
         - Uso Avançado: pt/guides/advanced-usage.md
     - Configurações: pt/configuration.md
     - Operações: pt/operations.md
+  - Deutsch:
+    - Startseite: de/index.md
+    - Architektur: de/architecture.md
+    - Anleitungen:
+        - Erste Schritte: de/guides/getting-started.md
+        - Erweiterte Nutzung: de/guides/advanced-usage.md
+    - Konfiguration: de/configuration.md
+    - Betrieb: de/operations.md
