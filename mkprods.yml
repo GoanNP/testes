@@ -6,6 +6,7 @@ product: product.yml
 documentation: mkdocs.yml
 
 nav:
+  - Prod: prod.md 
   - English:
     - Overview: en/index.md
     - Specifications: en/specifications.md
